@@ -9,3 +9,12 @@ i am coding with trevaun
   | Kayla    |gmc sierra     |fixed the wrong problem         |
   | Bart     |ty corolla     | stains        |
   | Harrison |forester     |oil cap         |
+
+# February 11, 2025
+| Shape    | Color | Count |
+| -------- | ----- | ----- |
+| Circle   |green       | 7      |
+| Square   |yellow       | 5      |
+| Hexagon  |brown       |  6     |
+| Triangle |purpal       | 4      |
+| Octagon  |red       |    3   |
